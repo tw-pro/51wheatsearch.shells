@@ -17,4 +17,4 @@ touch /data/api.51wheatsearch.com/gs/logs/${LOGDATE}-access.pipe &&
 chown -R nginx:nginx /data/api.51wheatsearch.com/gs/logs/ &&
 # 创建 api.51wheatsearch.admin 日志文件
 touch /data/api.51wheatsearch.com/admin/logs/${LOGDATE}-access.pipe &&
-chown -R nginx:nginx /data/api.51wheatsearch.com/admin/logs/ &&
+chown -R nginx:nginx /data/api.51wheatsearch.com/admin/logs/
