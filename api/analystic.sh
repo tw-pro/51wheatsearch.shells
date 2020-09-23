@@ -1,2 +1,2 @@
 #!/bin/bash
-cd /data/srv/twowen-api/www && ./cli crontab apiAnalysis
+cd /data/api.51wheatsearch.com/api/www && ./cli crontab apiAnalysis
